@@ -1,4 +1,4 @@
-<img src="https://cdn.discordapp.com/attachments/719848475608744040/724612732757868584/4_20200622201158.png">
+<img src="https://cdn.discordapp.com/attachments/719848475608744040/724612732757868584/4_20200622201158.png" style="width=40%;">
 
 # โน๊ต
 ไพไทย ภาษาไทยสำหรับภาษาไพทอนโดยคนไทย
