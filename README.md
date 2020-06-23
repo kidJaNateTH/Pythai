@@ -1,5 +1,5 @@
 <div align = 'center'>
-<img src="https://cdn.discordapp.com/attachments/719848475608744040/724661210468974622/Pythai_Banner_20200622232451.png">
+<img src="https://cdn.discordapp.com/attachments/719848475608744040/724904420873338919/logo.png">
 </div>
  
  
