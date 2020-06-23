@@ -3,8 +3,9 @@
 ```css
 1. เปิด cmd ชองท่าน
 2. pip install pythai
-3. พิมพ์ from pythai import * ในไฟล์ Python ของท่าน```
+3. พิมพ์ from pythai import * ในไฟล์ Python ของท่าน
+```
 
-# สตริง
+_# สตริง_
 ตัวใหญ่(ตัวแปร:str,คัวแรกเท่านั้น:bool=None)
 return ค่าเป็น boolean
