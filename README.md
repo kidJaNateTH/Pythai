@@ -1,6 +1,4 @@
-<div align = 'center'>
-<img src="https://cdn.discordapp.com/attachments/719848475608744040/724904420873338919/logo.png"width="40%px">
-</div>
+<img src="https://cdn.discordapp.com/attachments/719848475608744040/724904420873338919/logo.png"width="30px">
  
  
  
