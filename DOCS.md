@@ -5,9 +5,25 @@
 2. pip install pythai
 3. พิมพ์ from pythai import * ในไฟล์ Python ของท่าน
 ```
+**คำสั่งพื้นฐาน**
 
+```css
+จริง
+return ค่าเป็น True
+```
+```css
+เท็จ
+return ค่าเป็น False
+```
+```css
+ไม่จำเป็น
+return ค่าเป็น None
+```
+```css
+ลูปตลอดกาล(ฟังก์ชั่น,หน่วงเวลา:หน่วงเวลา=ไม่จำเป็น)
+White loop
+```
 **สตริง**
-
 ```css
 ตัวใหญ่(ตัวแปร:str,คัวแรกเท่านั้น:bool=None)
 return ค่าเป็น str
