@@ -6,6 +6,17 @@
 3. พิมพ์ from pythai import * ในไฟล์ Python ของท่าน
 ```
 
-_# สตริง_
+# สตริง
+
+```css
 ตัวใหญ่(ตัวแปร:str,คัวแรกเท่านั้น:bool=None)
-return ค่าเป็น boolean
+return ค่าเป็น str
+```
+```css
+ตัวเล็ก(ตัวแปร:str)
+return ค่าเป็น str
+```
+```css
+นับตัวอักษร()
+return ค่าเป็น int
+```
