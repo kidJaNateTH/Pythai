@@ -1,4 +1,4 @@
-<div align="center">
+<div align="left">
 <img src="https://cdn.discordapp.com/attachments/705418568661205106/725000429754384424/newlogo.png" width="15%">
 </div>
  
